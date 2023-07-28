@@ -2,108 +2,158 @@
     "Medicines" : [
         {
             "id": 1,
-            "name": "Pharmeasy",
+            "company": "Pharmeasy",
+            "product": "Paracetamol",
+            "quantity": "100mg / 6 tablets",
             "price": "$10"
         },
         {
             "id": 2,
-            "name": "Netmeds",
-            "price": "$10"
+            "company": "Netmeds",
+            "product": "Paracetamol",
+            "quantity": "----",
+            "price": "$9"
         },
         {
             "id": 3,
-            "name": "Medlife",
-            "price": "$10"
+            "company": "Medlife",
+            "product": "Paracetamol",
+            "quantity": "100mg / 6 tablets",
+            "price": "$7"
         },
         {
             "id": 4,
-            "name": "Apollo Pharmacy 24/7",
-            "price": "$10"
+            "company": "Apollo Pharmacy 24/7",
+            "product": "Paracetamol",
+            "quantity": "unavailable",
+            "price": "$8"
         },
         {
-            "id": 4,
-            "name": "Other",
-            "price": "$10"
+            "id": 5,
+            "company": "Other",
+            "product": "Paracetamol",
+            "quantity": "100mg / 6 tablets",
+            "price": "$6"
         }
     ],
     "Cosmetics" : [
         {
             "id": 1,
-            "name": "Nykaa",
-            "price": "$10"
+            "company": "Nykaa",
+            "product": "Kajal",
+            "time": "7 days",
+            "price": "$19"
         },
         {
             "id": 2,
-            "name": "Maybelline",
-            "price": "$10"
+            "company": "Maybelline",
+            "product": "Kajal",
+            "time": "15 days",
+            "price": "$15"
         },
         {
             "id": 3,
-            "name": "Lakme",
-            "price": "$10"
+            "company": "Lakme",
+            "product": "Kajal",
+            "time": "7 days",
+            "price": "$11"
         },
         {
             "id": 4,
-            "name": "L'Oréal Paris",
-            "price": "$10"
+            "company": "L'Oréal Paris",
+            "product": "Kajal",
+            "time": "6-5 days",
+            "price": "$18"
         },
         {
-            "id": 4,
-            "name": "Other",
-            "price": "$10"
+            "id": 5,
+            "company": "Other",
+            "product": "Kajal",
+            "time": "2 days",
+            "price": "$21"
         }
     ],
     "Food" : [
         {
             "id": 1,
-            "name": "Zomato",
+            "company": "Zomato",
+            "product": "Veg Burger",
+            "distance": "23 km",
+            "time": "20 min",
             "price": "$10"
         },
         {
             "id": 2,
-            "name": "Swiggy",
-            "price": "$10"
+            "company": "Swiggy",
+            "product": "Veg Burger",
+            "distance": "10 km",
+            "time": "7 min",
+            "price": "$9"
         },
         {
             "id": 3,
-            "name": "Food Panda",
-            "price": "$10"
+            "company": "Food Panda",
+            "product": "Veg Burger",
+            "distance": "5 km",
+            "time": "8 min",
+            "price": "$9"
         },
         {
             "id": 4,
-            "name": "Uber Eats",
+            "company": "Uber Eats",
+            "product": "Veg Burger",
+            "distance": "3 km",
+            "time": "15 min",
             "price": "$10"
         },
         {
-            "id": 4,
-            "name": "Other",
-            "price": "$10"
+            "id": 5,
+            "company": "Other",
+            "product": "Veg Burger",
+            "distance": "13 km",
+            "time": "5 min",
+            "price": "$6"
         }
     ],
     "Travel" : [
         {
             "id": 1,
-            "name": "Uber",
+            "company": "Uber",
+            "product": "College - Bus Stand",
+            "distance": "3 km",
+            "time": "10 min",
             "price": "$10"
         },
         {
             "id": 2,
-            "name": "Ola",
+            "company": "Ola",
+            "product": "College - Bus Stand",
+            "distance": "3 km",
+            "time": "7 min",
             "price": "$10"
         },
         {
             "id": 3,
-            "name": "Rapido",
+            "company": "Rapido",
+            "product": "College - Bus Stand",
+            "distance": "Not Available",
+            "time": "8 min",
             "price": "$10"
         },
         {
             "id": 4,
-            "name": "Zoomcar",
+            "company": "Zoomcar",
+            "product": "College - Bus Stand",
+            "distance": "3 km",
+            "time": "15 min",
             "price": "$10"
         },
         {
-            "id": 4,
-            "name": "Other",
+            "id": 5,
+            "company": "Other",
+            "product": "College - Bus Stand",
+            "distance": "3 km",
+            "time": "5 min",
             "price": "$10"
         }
     ]
