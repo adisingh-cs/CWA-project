@@ -1,0 +1,110 @@
+{
+    "Medicines" : [
+        {
+            "id": 1,
+            "name": "Pharmeasy",
+            "price": "$10"
+        },
+        {
+            "id": 2,
+            "name": "Netmeds",
+            "price": "$10"
+        },
+        {
+            "id": 3,
+            "name": "Medlife",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Apollo Pharmacy 24/7",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Other",
+            "price": "$10"
+        }
+    ],
+    "Cosmetics" : [
+        {
+            "id": 1,
+            "name": "Nykaa",
+            "price": "$10"
+        },
+        {
+            "id": 2,
+            "name": "Maybelline",
+            "price": "$10"
+        },
+        {
+            "id": 3,
+            "name": "Lakme",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "L'Oréal Paris",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Other",
+            "price": "$10"
+        }
+    ],
+    "Food" : [
+        {
+            "id": 1,
+            "name": "Zomato",
+            "price": "$10"
+        },
+        {
+            "id": 2,
+            "name": "Swiggy",
+            "price": "$10"
+        },
+        {
+            "id": 3,
+            "name": "Food Panda",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Uber Eats",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Other",
+            "price": "$10"
+        }
+    ],
+    "Travel" : [
+        {
+            "id": 1,
+            "name": "Uber",
+            "price": "$10"
+        },
+        {
+            "id": 2,
+            "name": "Ola",
+            "price": "$10"
+        },
+        {
+            "id": 3,
+            "name": "Rapido",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Zoomcar",
+            "price": "$10"
+        },
+        {
+            "id": 4,
+            "name": "Other",
+            "price": "$10"
+        }
+    ]
+}
